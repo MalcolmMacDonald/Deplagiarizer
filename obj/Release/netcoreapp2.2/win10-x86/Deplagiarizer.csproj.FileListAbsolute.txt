@@ -1,0 +1,14 @@
+D:\Malcolm MacDonald\Documents\C# Projects\Deplagiarizer\bin\Release\netcoreapp2.2\win10-x86\hostpolicy.dll
+D:\Malcolm MacDonald\Documents\C# Projects\Deplagiarizer\bin\Release\netcoreapp2.2\win10-x86\hostfxr.dll
+D:\Malcolm MacDonald\Documents\C# Projects\Deplagiarizer\bin\Release\netcoreapp2.2\win10-x86\Deplagiarizer.exe
+D:\Malcolm MacDonald\Documents\C# Projects\Deplagiarizer\bin\Release\netcoreapp2.2\win10-x86\Deplagiarizer.deps.json
+D:\Malcolm MacDonald\Documents\C# Projects\Deplagiarizer\bin\Release\netcoreapp2.2\win10-x86\Deplagiarizer.runtimeconfig.json
+D:\Malcolm MacDonald\Documents\C# Projects\Deplagiarizer\bin\Release\netcoreapp2.2\win10-x86\Deplagiarizer.runtimeconfig.dev.json
+D:\Malcolm MacDonald\Documents\C# Projects\Deplagiarizer\bin\Release\netcoreapp2.2\win10-x86\Deplagiarizer.dll
+D:\Malcolm MacDonald\Documents\C# Projects\Deplagiarizer\bin\Release\netcoreapp2.2\win10-x86\Deplagiarizer.pdb
+D:\Malcolm MacDonald\Documents\C# Projects\Deplagiarizer\obj\Release\netcoreapp2.2\win10-x86\Deplagiarizer.csprojAssemblyReference.cache
+D:\Malcolm MacDonald\Documents\C# Projects\Deplagiarizer\obj\Release\netcoreapp2.2\win10-x86\Deplagiarizer.csproj.CoreCompileInputs.cache
+D:\Malcolm MacDonald\Documents\C# Projects\Deplagiarizer\obj\Release\netcoreapp2.2\win10-x86\Deplagiarizer.AssemblyInfoInputs.cache
+D:\Malcolm MacDonald\Documents\C# Projects\Deplagiarizer\obj\Release\netcoreapp2.2\win10-x86\Deplagiarizer.AssemblyInfo.cs
+D:\Malcolm MacDonald\Documents\C# Projects\Deplagiarizer\obj\Release\netcoreapp2.2\win10-x86\Deplagiarizer.dll
+D:\Malcolm MacDonald\Documents\C# Projects\Deplagiarizer\obj\Release\netcoreapp2.2\win10-x86\Deplagiarizer.pdb
